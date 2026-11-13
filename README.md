@@ -1,30 +1,7 @@
-# dsa-leetcode-solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# DSA LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
-## Queue
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
-## Sliding Window
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
-## Monotonic Queue
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
-## Range Minimum/Maximum Query
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
-<!---LeetCode Topics End-->
+My daily Data Structures & Algorithms practice for interview preparation.
+
+- Language: Java
+- Focus: arrays, sliding window, heaps, recursion, dynamic programming, graphs
+- Approach: solve daily, organize by topic, improve consistency over time
