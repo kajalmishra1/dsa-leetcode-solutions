@@ -24,6 +24,7 @@ My daily Data Structures & Algorithms practice for interview preparation.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -58,6 +59,7 @@ My daily Data Structures & Algorithms practice for interview preparation.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
