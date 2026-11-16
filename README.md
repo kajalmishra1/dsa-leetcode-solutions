@@ -50,4 +50,20 @@ My daily Data Structures & Algorithms practice for interview preparation.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0146-lru-cache) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
