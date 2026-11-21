@@ -11,6 +11,7 @@ My daily Data Structures & Algorithms practice for interview preparation.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0015-3sum) |
 | [0503-next-greater-element-ii](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -58,6 +59,7 @@ My daily Data Structures & Algorithms practice for interview preparation.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -95,4 +97,8 @@ My daily Data Structures & Algorithms practice for interview preparation.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
