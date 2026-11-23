@@ -50,6 +50,7 @@ My daily Data Structures & Algorithms practice for interview preparation.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
@@ -101,4 +102,8 @@ My daily Data Structures & Algorithms practice for interview preparation.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0015-3sum) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
