@@ -12,6 +12,7 @@ My daily Data Structures & Algorithms practice for interview preparation.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -106,4 +107,8 @@ My daily Data Structures & Algorithms practice for interview preparation.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kajalmishra1/dsa-leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
